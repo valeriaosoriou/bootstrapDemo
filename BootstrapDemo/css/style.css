@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.myBackground{
+	background: pink;
+}
+.myImage{
+	margin-left: 23%;
+	max-width: 60%;
+}
+.myPara{
+	font-family: Helvetica;
+	font-size: 18px;
+}
